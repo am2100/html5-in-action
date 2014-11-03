@@ -20,6 +20,7 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+gem 'haml-rails', '~> 0.4.0'
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
